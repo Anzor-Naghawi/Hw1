@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">HW1 Anzor Naghawi</string>
+    <string-array name="subjectoptions">
+        <item>Geo</item>
+        <item>Math</item>
+        <item>Physics</item>
+
+    </string-array>
+    <string-array name="questionoptions">
+    <item>Question 1</item>
+    <item>Question 2</item>
+    <item>Question 3</item>
+    </string-array>
+    <string-array name="mathquestions">
+        <item>What is the square root of 144 ?</item>
+        <item>What is 7 cubed ( to the power of 3 )</item>
+        <item>Solve for x :
+                x+14 = 2</item>
+    </string-array>
+    <string-array name="geoquestions">
+        <item>What is the capital of algeria ?</item>
+        <item>What country is the south neighbour of libya ?</item>
+        <item>What country does the Nile river originate from ?</item>
+    </string-array>
+    <string-array name="physicsquestions">
+        <item>Which of the following is the equation for speed ?</item>
+        <item>What are the first 3 digits of the speed of light ?</item>
+        <item>Can an object with mass travel at the speed of light ?</item>
+    </string-array>
+
+    <string-array name = "mathanswer1_1">
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+    </string-array>
+    <string-array name = "mathanswer1_2">
+        <item>342</item>
+        <item>343</item>
+        <item>434</item>
+    </string-array>
+    <string-array name = "mathanswer1_3">
+        <item>-21</item>
+        <item>-11</item>
+        <item>-12</item>
+    </string-array>
+    <string-array name = "physicsanswer1_1">
+        <item>m * c^2</item>
+        <item>d / t</item>
+        <item>s * t</item>
+    </string-array>
+    <string-array name = "physicsanswer1_2">
+        <item>299.. m/s</item>
+        <item>298.. m/s</item>
+        <item>2987.. m/s</item>
+    </string-array>
+    <string-array name = "physicsanswer1_3">
+        <item>Yes</item>
+        <item>No</item>
+        <item>Maybe</item>
+    </string-array>
+    <string-array name = "geoanswers1_1">
+        <item>Algeria</item>
+        <item>Algiers</item>
+        <item>Amman</item>
+    </string-array>
+    <string-array name = "geoanswers1_2">
+        <item>Niger</item>
+        <item>No country</item>
+        <item>Saudi Arabia</item>
+    </string-array>
+    <string-array name = "geoanswers1_3">
+        <item>Sudan</item>
+        <item>Mediterranean Sea</item>
+        <item>Lake Victoria</item>
+    </string-array>
+</resources>
